@@ -1,18 +1,20 @@
 # Horiseon Challenge Code Refactor Starter Code
 
-## HTML revision and adjustments
-! [ Revise the HTML and fix any issues you see on starter code, to improve functionality of the links]
-* Revised div and hero sections to improve site response
+## Steps to be taken to succesfully complete the chalenge:
+### HTML revision and adjustments
+* In aim to improve the functionality of the links, review the HTML and fix any issues you see on starter code
+* Deep dive into code- Revised div and hero sections to improve site response
 * Added comments
 
 
-## css revision and adjustments
+### CSS revision and adjustments
 * Revised, reorganized and consolidated css to make it a bit cleaner 
-* Reorganized css to follow the semantic structure of the HTML elements
+* Deep dive into code - Reorganized css to follow the semantic structure of the HTML elements
 * Added comments
 
 
-## screenshots of the completed page
+### Screenshots of the completed page
+
 ```md
 ![alt text](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n.png)
 ```
