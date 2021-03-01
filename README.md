@@ -17,9 +17,5 @@
 
 ### Screenshots of the completed page
 
-```md
-![screenshot](./assets/images/Hori-seo-n.png)
-```
-```md
-![screenshot-1](./assets/images/Hori-seo-n.png)
-```
+<img src="./assets/images/Hori-seo-n.png" >
+<img src="./assets/images/Hori-seo-n.png" >
