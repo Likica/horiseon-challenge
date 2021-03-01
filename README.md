@@ -18,4 +18,4 @@
 ### Screenshots of the completed page
 
 <img src="./assets/images/Hori-seo-n.png" >
-<img src="./assets/images/Hori-seo-n.png" >
+<img src="./assets/images/Hori-seo-n-1.png" >
