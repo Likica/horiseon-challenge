@@ -13,9 +13,8 @@
 
 
 ## screenshots of the completed page
-```md
+
 ![Hori-seo-n](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n.png)
-```
-```md
+
+
 ![Hori-seo-n-1](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n-1.png)
-```
