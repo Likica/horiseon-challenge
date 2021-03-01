@@ -13,8 +13,9 @@
 
 
 ## screenshots of the completed page
-
-![Hori-seo-n](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n.png)
-
-
-![Hori-seo-n-1](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n-1.png)
+```md
+![alt text](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n.png)
+```
+```md
+![alt text](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n-1.png)
+```
