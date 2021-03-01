@@ -12,12 +12,14 @@
 * Deep dive into code - Reorganized css to follow the semantic structure of the HTML elements
 * Added comments
 
+### Link to deployed application on GitHub Pages
+* https://likica.github.io/horiseon-challenge/
 
 ### Screenshots of the completed page
 
 ```md
-![alt text](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n.png)
+![screenshot](HoriseonChllng1/horiseon-challenge/assets/images/Hori-seo-n.png)
 ```
 ```md
-![alt text](HoriseonChllng1/horiseon-challenge/Develop/assets/images/Hori-seo-n-1.png)
+![screenshot-1](HoriseonChllng1/horiseon-challenge/assets/images/Hori-seo-n.png)
 ```
