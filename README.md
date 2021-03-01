@@ -18,8 +18,8 @@
 ### Screenshots of the completed page
 
 ```md
-![screenshot](HoriseonChllng1/horiseon-challenge/assets/images/Hori-seo-n.png)
+![screenshot](./assets/images/Hori-seo-n.png)
 ```
 ```md
-![screenshot-1](HoriseonChllng1/horiseon-challenge/assets/images/Hori-seo-n.png)
+![screenshot-1](./assets/images/Hori-seo-n.png)
 ```
