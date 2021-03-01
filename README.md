@@ -1,4 +1,4 @@
-# Horiseon Challenge Code Refactor Starter Code
+# Code Refactor Starter Code
 
 ## Steps to be taken to succesfully complete the chalenge:
 ### HTML revision and adjustments
